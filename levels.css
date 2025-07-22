@@ -4,7 +4,7 @@
 
 #level-1 {
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: repeat(1fr, 3);
+  /* grid-template-rows: repeat(1fr, 3); */
 }
 
 #level-2 {
